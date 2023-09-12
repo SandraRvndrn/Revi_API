@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+    <AddIn Type="Command">
+        <Assembly>C:\Users\sandr\source\repos\RevitCommands\RevitCommands\bin\x64\Debug\RevitCommands.dll</Assembly>
+        <AddInId>CDC4A106-3657-4F60-8C33-F8B8CAF27BC7</AddInId>
+        <FullClassName>RevitCommands.GetElementIDc</FullClassName>
+        <Text>GetElementIDc</Text>
+        <VendorId>Sandra</VendorId>
+        <VendorDescription>Your Company Information</VendorDescription>
+    </AddIn>
+</RevitAddIns>
+

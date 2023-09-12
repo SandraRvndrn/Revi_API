@@ -1,0 +1,6 @@
+C:\Users\sandr\source\repos\RevitCommands\RevitCommands\bin\Debug\RevitCommands.dll
+C:\Users\sandr\source\repos\RevitCommands\RevitCommands\bin\Debug\RevitCommands.pdb
+C:\Users\sandr\source\repos\RevitCommands\RevitCommands\obj\Debug\RevitCommands.csproj.AssemblyReference.cache
+C:\Users\sandr\source\repos\RevitCommands\RevitCommands\obj\Debug\RevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\RevitCommands\RevitCommands\obj\Debug\RevitCommands.dll
+C:\Users\sandr\source\repos\RevitCommands\RevitCommands\obj\Debug\RevitCommands.pdb
