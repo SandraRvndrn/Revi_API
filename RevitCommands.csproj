@@ -76,6 +76,7 @@
     <Compile Include="CollectWindows.cs" />
     <Compile Include="DeleteElement.cs" />
     <Compile Include="GetElementID.cs" />
+    <Compile Include="ChangeLocation.cs" />
     <Compile Include="SetParameters.cs" />
     <Compile Include="PlaceFamily.cs" />
     <Compile Include="GetParameters.cs" />
